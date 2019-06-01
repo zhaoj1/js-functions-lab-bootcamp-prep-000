@@ -1,2 +1,3 @@
 // write your code below!
-function happyHolidays
+function happyHolidays(){console.log "Happy holidays!"}
+
